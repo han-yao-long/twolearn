@@ -1,3 +1,3 @@
 first
 commit;
-check out dev
+Creating a new branch is quick & simple.
