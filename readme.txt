@@ -1,2 +1,3 @@
 first
-commit
+commit;
+check out dev
